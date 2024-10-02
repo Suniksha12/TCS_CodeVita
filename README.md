@@ -77,3 +77,5 @@ Here's a consolidated overview of the problem descriptions you provided:
 **ZeroCount**
 - **Problem Description:** Given a binary string with K ones and remaining zeros, rearrange the ones to minimize the length of the longest consecutive zeros.
 - **Constraints:** (Constraints not explicitly provided, but typical for binary strings and zeros.)
+
+from the above question only three have presentation errors in them and the rest 3 have run time errors, so check manually.
